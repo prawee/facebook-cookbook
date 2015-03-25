@@ -1,0 +1,17 @@
+{
+    "name": "prawee/facebook-cookbook",
+    "description": "Learning about new facebook api with your application step by step",
+    "keywords": ["faceboook","api"],
+    "homepage": "http://www.prawee.com",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "prawee wongsa",
+            "email": "konkeanweb@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk-v4" : "4.0.*"
+    }
+}
